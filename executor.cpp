@@ -1,6 +1,6 @@
 /*
-* Created by Misra Yavuz.
-* Do not edit this program.
+* 
+* 
 * Compile: g++ executor.cpp -o executor
 * ./executor processNum instructionsPath
 */
