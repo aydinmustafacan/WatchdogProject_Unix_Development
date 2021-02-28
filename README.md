@@ -1,5 +1,4 @@
 # WatchdogProject_Unix_Development
-Watchdog Program for Unix
 @mainpage Watchdog Project by Mustafa Can Aydin
 @tableofcontents
 @author Mustafa Can AYDIN
